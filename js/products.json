@@ -1,0 +1,173 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "Ring and Finger",
+      "price": "N2000",
+      "displayPrice": "N100",
+      "image": "images/monic_photo/card-item1.jpg",
+      "description": "Please Describe this.",
+      "colors": "Red, White, Black",
+      "style": "SM3018-100",
+      "categories": ["Jewelry", "Clothes"],
+      "inStock": false
+    },
+    {
+      "id": 1,
+      "name": "No Description yet",
+      "price": "N99",
+      "displayPrice": "N99",
+      "image": "images/monic_photo/card-item2.jpg",
+      "description": "This is a stylish product with excellent quality and modern design. Perfect for everyday use.",
+      "colors": "Blue, Green, Yellow",
+      "style": "SM3019-200",
+      "categories": ["Jewelry", "Women's Clothes"],
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Stylish Item",
+      "price": "N150",
+      "displayPrice": "N150",
+      "image": "images/monic_photo/card-item4.jpg",
+      "description": "Premium quality product with exceptional craftsmanship and attention to detail.",
+      "colors": "Black, White, Gray",
+      "style": "SM3020-300",
+      "categories": ["Jewelry", "Accessories", "Premium"],
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Fashion Forward",
+      "price": "N80",
+      "displayPrice": "N80",
+      "image": "images/monic_photo/card-item5.jpg",
+      "description": "Trendy and comfortable, perfect for the modern lifestyle.",
+      "colors": "Pink, Purple, Coral",
+      "style": "SM3021-400",
+      "categories": ["Jewelry", "Fashion", "Trending"],
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "Classic Design",
+      "price": "N120",
+      "displayPrice": "N120",
+      "image": "images/monic_photo/card-item6.jpg",
+      "description": "Timeless design that never goes out of style. A wardrobe essential.",
+      "colors": "Navy, Cream, Beige",
+      "style": "SM3022-500",
+      "categories": ["Jewelry", "Classic", "Essentials"],
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Modern Style",
+      "price": "N95",
+      "displayPrice": "N95",
+      "image": "shoulders/collla-white.jpg",
+      "description": "Contemporary design meets comfort in this versatile piece.",
+      "colors": "Teal, Orange, Burgundy",
+      "style": "SM3023-600",
+      "categories": ["Jewelry", "Modern", "Versatile"],
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "Urban Collection",
+      "price": "N110",
+      "displayPrice": "N110",
+      "image": "shoulders/faux-black.jpg",
+      "description": "Street-smart style with urban appeal. Perfect for city living.",
+      "colors": "Charcoal, Olive, Rust",
+      "style": "SM3024-700",
+      "categories": ["Jewelry", "Urban", "Street Style"],
+      "inStock": true
+    },
+   
+    {
+      "id": 17,
+      "name": "Elegant Choice",
+      "price": "N180",
+      "displayPrice": "N180",
+      "image": "shoulders/lace-mterial.jpg",
+      "description": "Sophisticated elegance for special occasions and professional settings.",
+      "colors": "Midnight Blue, Silver, Pearl",
+      "style": "SM3025-800",
+      "categories": ["Jewelry", "Elegant", "Professional"],
+      "inStock": true
+    },
+    {
+      "id": 18,
+      "name": "Casual Comfort",
+      "price": "N65",
+      "displayPrice": "N65",
+      "image": "images/monic_photo/card-item9.jpg",
+      "description": "Ultimate comfort for relaxed days and casual outings.",
+      "colors": "Sage, Lavender, Cream",
+      "style": "SM3026-900",
+      "categories": ["Jewelry", "Casual", "Comfort"],
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Sport Active",
+      "price": "N75",
+      "displayPrice": "N75",
+      "image": "shoulders/black-lace.jpg",
+      "description": "Active wear designed for performance and style during workouts.",
+      "colors": "Electric Blue, Neon Green, Black",
+      "style": "SM3027-1000",
+      "categories": ["Jewelry", "Sport", "Active Wear"],
+      "inStock": true
+    },
+    {
+      "id": 10,
+      "name": "Premium Select",
+      "price": "N200",
+      "displayPrice": "N200",
+      "image": "shoulders/royal-blue.jpg",
+      "description": "Exclusive premium selection with luxury materials and finest craftsmanship.",
+      "colors": "Gold, Platinum, Rose Gold",
+      "style": "SM3028-1100",
+      "categories": ["Jewelry", "Premium", "Luxury"],
+      "inStock": true
+    },
+    {
+      "id": 11,
+      "name": "Premium Select",
+      "price": "N200",
+      "displayPrice": "N200",
+      "image": "shoulders/yellow-faux-collar.jpg",
+      "description": "Exclusive premium selection with luxury materials and finest craftsmanship.",
+      "colors": "Gold, Platinum, Rose Gold",
+      "style": "SM3028-1100",
+      "categories": ["Jewelry", "Premium", "Luxury"],
+      "inStock": true
+    },
+     {
+      "id": 15,
+      "name": "Urban Collection",
+      "price": "N110",
+      "displayPrice": "N110",
+      "image": "shoulders/lace-mterial.jpg",
+      "description": "Street-smart style with urban appeal. Perfect for city living.",
+      "colors": "Charcoal, Olive, Rust",
+      "style": "SM3024-700",
+      "categories": ["Jewelry", "Urban", "Street Style"],
+      "inStock": true
+    },
+     {
+      "id": 16,
+      "name": "Urban Collection",
+      "price": "N110",
+      "displayPrice": "N110",
+      "image": "images/monic_photo/card-item6.jpg",
+      "description": "Street-smart style with urban appeal. Perfect for city living.",
+      "colors": "Charcoal, Olive, Rust",
+      "style": "SM3024-700",
+      "categories": ["Jewelry", "Urban", "Street Style"],
+      "inStock": true
+    }
+  ]
+}
