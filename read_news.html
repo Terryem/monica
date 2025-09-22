@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Read News</title>
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div class="news-article" id="news-article">
+    <h1 id="news-title">Loading...</h1>
+    <img id="news-image" src="" alt="" style="max-width:100%; display:none;" />
+    <p id="news-content"></p>
+  </div>
+  <script>
+    // Get article ID and category from URL
+    function getQueryParam(param) {
+      const urlParams = new URLSearchParams(window.location.search);
+      return urlParams.get(param);
+    }
+    const articleId = getQueryParam('id');
+    const category = getQueryParam('category');
+    fetch('list_of_news.json')
+      .then(response => response.json())
+      .then(newsList => {
+        const article = newsList.find(item => String(item.id) === articleId && item.category === category);
+        if (article) {
+          document.getElementById('news-title').textContent = article.title;
+          if (article.image) {
+            const img = document.getElementById('news-image');
+            img.src = article.image;
+            img.style.display = 'block';
+          }
+          document.getElementById('news-content').textContent = article.content;
+        } else {
+          document.getElementById('news-title').textContent = 'Article Not Found';
+          document.getElementById('news-content').textContent = '';
+        }
+      })
+      .catch(() => {
+        document.getElementById('news-title').textContent = 'Error loading article';
+        document.getElementById('news-content').textContent = '';
+      });
+  </script>
+</body>
+</html>
