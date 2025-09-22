@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "category": "politics",
+    "title": "World Patient safety Day 2025",
+    "summary": "West African Post graduate College of Pharmacists (FCT zone).",
+    "content": "The West African Postgraduate College of Pharmacists has urged the Federal Ministry of Health and other health institutions to make patient safety a top priority in healthcare delivery. Speaking at a media briefing in Abuja to mark this year’s World Patient Safety Day, themed “Safe Care for Every Newborn and Every Child” with the slogan “Patient Safety from the Start”, the FCT Zonal Coordinator, Dr. Abubakar Danraka, warned that unsafe care continues to claim millions of lives globally, with children being the most vulnerable. Citing World Health Organization (WHO) statistics, Dr. Danraka revealed that one in every ten patients suffers harm in healthcare, while more than three million deaths occur annually due to unsafe practices—over half of which are preventable. He identified medication errors, surgical mistakes, patient misidentification, unsafe transfusions, and healthcare-associated infections as leading causes of avoidable harm, noting that consultant pharmacists play a critical role in reducing risks through prescription reviews, drug monitoring, and patient education. “The recent appointment of consultant pharmacists in eight federal agencies is a game-changer,” he said, while urging other institutions to adopt similar measures despite infrastructural and welfare challenges facing pharmacists. Findings from a College-led study involving 200 mothers, he added, highlighted innovative approaches to paediatric care and antimicrobial resistance prevention. He also called on the Federal Competition and Consumer Protection Commission (FCCPC) to step up enforcement of the Patients’ Bill of Rights to empower patients and caregivers. The immediate past Coordinator, Ms. Ruth Ajayi, stressed that awareness and continuous education among healthcare workers and patients are vital to reducing risks associated with unsafe practices. Also speaking, the Zonal Secretary, Mr. Kayode Okeji, called for stronger collaboration among government and stakeholders to build a culture of accountability, vigilance, and preventive care across Nigerian hospitals. Editing by Daniel Adejo",
+    "image": "images/pharmacists.jpg"
+  },
+  {
+    "id": 2,
+    "category": "sport",
+    "title": "Local Sports Team Wins Championship",
+    "summary": "The city celebrates as the local team clinches the title.",
+    "content": "In an exciting final match, the local sports team secured the championship after a nail-biting finish. Fans flooded the streets to celebrate the historic win...",
+    "image": "images/sport7.jpg"
+  },
+  {
+    "id": 3,
+    "category": "entertainment",
+    "title": "New Tech Innovations Announced",
+    "summary": "Tech companies unveil groundbreaking products at the annual expo.",
+    "content": "At the annual technology expo, several companies announced new products that promise to change the way we live and work. Highlights include advancements in AI, smart devices, and green technology...",
+    "image": "images/entertainment1.jpg"
+  },
+  {
+    "id": 4,
+    "category": "cc",
+    "title": "World Humanitarian Day 19 August 2025",
+    "summary": "A call to #ActForHumanity",
+    "content": "On 19 August, we mark World Humanitarian Day — a time to honor those who step into crises to help others, and to stand with the millions of people whose lives hang in the balance. This year the message is clear: the humanitarian system is stretched to its limits; underfunded, overwhelmed and under attack. Where bombs fall and disasters strike, humanitarian workers are the ones holding the line keeping people alive, often at great personal risk. But more and more those who help are becoming targets themselves. In 2024 alone over 380 humanitarian workers were killed. Some in the line of duty, others in their homes. Hundreds more have been injured, kidnapped or detained, and there is reason to fear 2025 could be worse. Too often the world looks away, even when these attacks violate international law. The laws meant to protect aid workers are ignored. Those responsible walk free. This silence and lack of accountability cannot continue. The system is failing not just humanitarian workers, but the people they serve. We’re not at a crossroads anymore. We’re standing at the edge. Needs are rising. Funding is falling. Attacks on aid workers are breaking records.",
+    "image": "images/whd.jpg"
+  },
+  {
+    "id": 5,
+    "category": "cc",
+    "title": "FG ban Shea Butter export",
+    "summary": "Shea Butter ban to boast local production.",
+    "content": "Nigeria’s government has banned the export of raw shea nuts, an essential raw material in many cosmetic products, in a bid to grow the country into a global supplier of refined shea butter and other skincare ingredients. The immediate ban on the crop will be in place for six months and then reviewed, Vice President Kashim Shettima said. Nigeria follows a growing list of other West African countries, including Burkina Faso, Mali, Togo, Ivory Coast and Ghana, that have banned or restricted export of the crop in the past two years.  The ban will transform Nigeria from an exporter of raw shea nut to a global supplier of refined shea butter, oil, and other derivatives, Shettima said Tuesday. He added that the decision was not an anti-trade policy but a pro-value addition policy designed to secure raw materials for our processing factories” and boost income and jobs for rural workers. Raw shea nut is pulverized and processed to produce shea butter, a key ingredient for manufacturing products like lotion, shampoos, conditioners and moisturizers. “It is one of the most important bases for skincare, especially now that a lot of people are tilting toward nontoxic skincare, said Zainab Bashir, an Abuja-based dermatologist.",
+    "image": "images/shea.jpg"
+  },
+ 
+  {
+    "id": 7,
+    "category": "politics",
+    "title": "River State Election",
+    "summary": "Rivers State Local Government Election.",
+    "content": "The stock market soared to new heights today, with the S&P 500 and Dow Jones both closing at record levels. Experts attribute the surge to positive economic data and strong corporate earnings...",
+    "image": "images/rivers.jpg"
+  },
+  {
+    "id": 7,
+    "category": "sport",
+    "title": "Local Sports Team Wins Championship",
+    "summary": "The city celebrates as the local team clinches the title.",
+    "content": "In an exciting final match, the local sports team secured the championship after a nail-biting finish. Fans flooded the streets to celebrate the historic win...",
+    "image": "images/sport7.jpg"
+  },
+  {
+    "id": 8,
+    "category": "ts",
+    "title": "Global Leaders Meet for Peace Summit",
+    "summary": "World leaders gather to discuss peace initiatives.",
+    "content": "In a historic summit, leaders from around the globe convened to discuss new peace initiatives and strategies for conflict resolution. The event marks a significant step toward global cooperation...",
+    "image": "images/whd.jpg"
+  },
+  {
+    "id": 9,
+    "category": "ts",
+    "title": "Creative Economy Week Nigeria 2025",
+    "summary": "Building futures through creativity",
+    "content": "Creative Economy Week Nigeria 2025, presented by the British Council inpartnership with the Federal Ministry of Arts, Culture, Tourism and the Creative Economy (FMACTCE), is a dynamic six-city series showcasing innovation, skills, and collaboration. Spanning Abuja, Lagos, Port Harcourt, Kano, Enugu, and London, the programme brings together diverse voices and creative talent to highlight the power of culture as a driver of connection and economic growth. Guided by the theme ‘Building Futures through Creativity’, the event reflects the role of the creative economy in shaping inclusive societies empowering young people, and creating opportunities for sustainable growth. Launching officially on 11 September in Abuja, the programme convenes creative practitioners, cultural hubs, policymakers, industry leaders, investors, and UK partners to explore how Nigeria’s creative economy can expand access to jobs, strengthen international collaboration, and position Nigeria as a global creative hub. From high-level policy dialogues and networking with industry leaders, to hands-on masterclasses, creative showcases, and major conferences, the event is designed to inspire collaboration, strengthen skills, and spotlight Nigeria’s global creative potential.",
+    "image": "images/british.jpg"
+  },
+  {
+    "id": 10,
+    "category": "ts",
+    "title": "Historic Win at the World Cup",
+    "summary": "Underdog team claims victory in a thrilling final.",
+    "content": "In a stunning upset, the underdog team clinched the World Cup title after a dramatic penalty shootout, sending fans into a frenzy of celebration...",
+    "image": "images/sport2.jpg"
+  }
+]
